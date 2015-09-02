@@ -2,3 +2,7 @@ This repository holds an example project of the lk split repo feature.
 
 This allows you to develop modules for lk external to the lk directory, but from
 a build system point of view unioned with lk.
+
+Initialize the git submodules for this to work with:
+git submodule init
+git submodule update
