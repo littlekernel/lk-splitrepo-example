@@ -1,4 +1,4 @@
 MODULES += \
     app/mytestapp
 
-include project/vexpress-a9-test.mk
+include project/qemu-virt-a15-test.mk
